@@ -263,8 +263,12 @@ body{
 
 }
 .footer-text{
+    float: left;
     color: gray;
     font-size: small;
     font-weight: lighter;
-}
+    margin-left: 236px;
+    margin-right: 307px;
+    margin-top: 20px;
+}    
 
